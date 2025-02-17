@@ -4,5 +4,6 @@ This lab required us to create a repository on Github named 2667989_SoftwareDesi
  When committing i used the commit message  "feat: Initial commit with student files".
 <br>-I added the paragraph to index.html with a unique and specific commit message.
 <br>-Added hyperlink and paragraph stating its a reference.
-<br>-Created 'feature/student-details' branch
+<br>-Created 'feature/student-details' branch.
+<br> Repo put into file 2667989-submission.bundle
 
